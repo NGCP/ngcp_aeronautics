@@ -1,3 +1,5 @@
 #Ignore python temp? files
 **/.idea
 **/__pycache__
+#ignore matlab temp files
+*.asv
