@@ -1,0 +1,3 @@
+#Ignore python temp? files
+**/.idea
+**/__pycache__
