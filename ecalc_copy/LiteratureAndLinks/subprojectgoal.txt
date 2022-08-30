@@ -1,0 +1,3 @@
+Trying to make a performance analysis program to use ecalc automaticly
+with final goal of doing constrained optimization to find the best helicopter design
+1) Copy propeller model
