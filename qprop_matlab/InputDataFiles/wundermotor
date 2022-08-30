@@ -1,0 +1,7 @@
+Wundermotor
+
+ 1        ! motor type (brushed DC, first-order model)
+
+ 0.000001     ! R0     (Ohms)           
+ 0.000001     ! Io0    (Amps)    
+ 3800.0       ! Kv     (rpm/Volt)
